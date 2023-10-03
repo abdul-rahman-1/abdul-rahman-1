@@ -66,6 +66,6 @@ I am a student of B.Tech. CSE First Year from Integral University, Lucknow, Indi
 
 ###
 
-<img align="center" height="150" src="https://media.tenor.com/-zRhQFj6oJAAAAAC/hacker-mainframe.gif"  />
+<img align="center" height="200" src="https://media.tenor.com/-zRhQFj6oJAAAAAC/hacker-mainframe.gif"  />
 
-###=
+###
