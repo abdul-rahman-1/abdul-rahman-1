@@ -1,4 +1,3 @@
-
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================
 
@@ -12,6 +11,31 @@ I am Abdul Rahman, currently pursuing my B.Tech. in Computer Science and Enginee
 * ✉️  Reach me at [abdalrahmankhankhan@gmail.com](mailto:abdalrahmankhankhan@gmail.com).
 * 🧠  Currently learning **Cybersecurity**.
 * 👨‍💻  Specializing in **React.js** and **Node.js**.
+
+---
+
+### About Me
+
+I am a highly motivated individual with a passion for technology and problem-solving. I enjoy working on creative projects that challenge my skills and allow me to learn new concepts. My goal is to contribute to the field of software engineering while exploring innovative solutions in cybersecurity and project management.
+
+---
+
+### Experience
+
+* **Chief Development Officer (CDO) at Warlock Security**  
+  Leading the development of scalable and secure applications while managing cross-functional teams. Focused on integrating cybersecurity solutions into web development.  
+  *(Add more details about your previous roles or significant accomplishments.)*
+
+---
+
+### Projects
+
+Here are some of the projects I've worked on:
+
+1. **[Portfolio Website](http://abdul-r.netlify.app/)**  
+   A personal portfolio showcasing my skills, projects, and experience.
+
+2. **[ZapMail – The Personalized Email Tool](https://github.com/abdul-rahman-1/ZapMail)** *(ZapMail is a cutting-edge application designed to simplify and enhance the process of sending personalized emails to multiple recipients. Whether you’re running a marketing campaign, managing client communication, or reaching out to your team, ZapMail ensures that every email is tailored, professional, and delivered with ease.)*  
 
 ---
 
@@ -73,8 +97,8 @@ I am Abdul Rahman, currently pursuing my B.Tech. in Computer Science and Enginee
 </div>
 
 ---
-
 ###
 <div align="center">
-<img align="center" height="200" src="https://media.tenor.com/-zRhQFj6oJAAAAAC/hacker-mainframe.gif"  />
+  <img align="center" height="200" src="https://media.tenor.com/-zRhQFj6oJAAAAAC/hacker-mainframe.gif" alt="hacker gif" />
 </div>
+
