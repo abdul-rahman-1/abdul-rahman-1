@@ -36,7 +36,7 @@ Here are some of the projects I've worked on:
    A personal portfolio showcasing my skills, projects, and experience.
 
 2. **[ZapMail – The Personalized Email Tool](https://github.com/abdul-rahman-1/ZapMail)** 
-   ZapMail is a cutting-edge application designed to simplify and enhance the process of sending personalized emails to multiple recipients. Whether you’re running a marketing campaign, managing client communication, or reaching out to your team, ZapMail ensures that every email is tailored, professional, and delivered with ease.*  
+   ZapMail is a cutting-edge application designed to simplify and enhance the process of sending personalized emails to multiple recipients. Whether you’re running a marketing campaign, managing client communication, or reaching out to your team, ZapMail ensures that every email is tailored, professional, and delivered with ease.  
 
 ---
 
