@@ -20,14 +20,6 @@ I am a highly motivated individual with a passion for technology and problem-sol
 
 ---
 
-### Experience
-
-* **Chief Development Officer (CDO) at Warlock Security**  
-  Leading the development of scalable and secure applications while managing cross-functional teams. Focused on integrating cybersecurity solutions into web development.  
-  *(Add more details about your previous roles or significant accomplishments.)*
-
----
-
 ### Projects
 
 Here are some of the projects I've worked on:
