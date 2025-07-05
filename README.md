@@ -25,15 +25,38 @@
 
 ### 🛠️ Tech Arsenal
 
-```
-Languages:       JavaScript | Python | C/C++ | Java | HTML5 | CSS3 | Bash
-Frontend Stack:  React.js | Tailwind CSS | Vite.js
-Backend Stack:   Node.js | Express.js | Flask | REST APIs
-Databases:       MongoDB (Local & Atlas) | SQLite3
-IoT Platforms:   NodeMCU | ESP32 | Raspberry Pi | Arduino
-Security Tools:  Nmap | Burp Suite | Wireshark | Metasploit | Linux | Kali Linux | OSINT tools
-Other Tools:     GitHub | VS Code | Postman | Canva | Netlify
-```
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>💻 Languages</strong></td>
+      <td>JavaScript · Python · C/C++ · Java · HTML5 · CSS3 · Bash</td>
+    </tr>
+    <tr>
+      <td><strong>🎨 Frontend</strong></td>
+      <td>React.js · Tailwind CSS · Vite.js</td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Backend</strong></td>
+      <td>Node.js · Express.js · Flask · REST APIs</td>
+    </tr>
+    <tr>
+      <td><strong>🗃️ Databases</strong></td>
+      <td>MongoDB (Local & Atlas) · SQLite3</td>
+    </tr>
+    <tr>
+      <td><strong>🔌 IoT Platforms</strong></td>
+      <td>NodeMCU · ESP32 · Raspberry Pi · Arduino</td>
+    </tr>
+    <tr>
+      <td><strong>🛡️ Security Tools</strong></td>
+      <td>Nmap · Burp Suite · Wireshark · Metasploit · Linux · Kali Linux · OSINT Tools</td>
+    </tr>
+    <tr>
+      <td><strong>🛠️ Other Tools</strong></td>
+      <td>GitHub · VS Code · Postman · Canva · Netlify</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
