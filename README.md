@@ -16,10 +16,15 @@
 🛡️ Cybersecurity geek by instinct.
 <br/>
 💻 Full-stack web & software engineer by skill.
+<br/>
 🔬 IoT + Embedded Systems innovator by passion.
+<br/>
 🚀 Currently building **MedShelf**: An IoT-based intelligent medicine inventory and alerting system.
+<br/>
 💼 Intern @ [D.R.D Security](https://www.instagram.com/drd_5ecurity/)
+<br/>
 🌐 Portfolio: [abdul-r.netlify.app](http://abdul-r.netlify.app/)
+<br/>
 📍 Based in: **Lucknow, India**
 
 ---
