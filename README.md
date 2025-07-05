@@ -31,7 +31,7 @@ Frontend Stack:  React.js | Tailwind CSS | Vite.js
 Backend Stack:   Node.js | Express.js | Flask | REST APIs
 Databases:       MongoDB (Local & Atlas) | SQLite3
 IoT Platforms:   NodeMCU | ESP32 | Raspberry Pi | Arduino
-Security Tools:  Nmap | Burp Suite | Wireshark | Metasploit | Linux
+Security Tools:  Nmap | Burp Suite | Wireshark | Metasploit | Linux | Kali Linux | OSINT tools
 Other Tools:     GitHub | VS Code | Postman | Canva | Netlify
 ```
 
@@ -81,6 +81,11 @@ Other Tools:     GitHub | VS Code | Postman | Canva | Netlify
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="mongodb"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="github"/>
+  <img src="https://www.vectorlogo.zone/logos/kaliorg/kaliorg-icon.svg" width="30" alt="kali linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="30" alt="bash"/>
+  <img src="https://www.svgrepo.com/show/353803/nmap-icon.svg" width="30" alt="nmap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Burp_Suite_Logo.png" width="30" alt="burp suite"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Wireshark_icon.svg" width="30" alt="wireshark"/>
 </div>
 
 ---
