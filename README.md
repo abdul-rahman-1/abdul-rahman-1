@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-🔡 Cybersecurity geek by instinct.
+🛡️ Cybersecurity geek by instinct.
 💻 Full-stack web & software engineer by skill.
 🔬 IoT + Embedded Systems innovator by passion.
 🚀 Currently building **MedShelf**: An IoT-based intelligent medicine inventory and alerting system.
@@ -37,13 +37,13 @@ Other Tools:     GitHub | VS Code | Postman | Canva | Netlify
 
 ---
 
-### 🖾 Cybersecurity Skills
+### 🔒 Cybersecurity Skills
 
 * 🔐 System Hardening (Linux, RPi)
 * 🕵️ Bug hunting fundamentals (OWASP Top 10)
 * 🛡️ Penetration testing (Nmap, Burp Suite, Metasploit)
 * 🧠 Custom security tools using Python
-* 🚀 IoT Security: Safe sensor communication & data control
+* 🛰️ IoT Security: Safe sensor communication & data control
 * 💬 Awareness in Social Engineering & OSINT techniques
 
 ---
@@ -70,17 +70,17 @@ Other Tools:     GitHub | VS Code | Postman | Canva | Netlify
 ### 🧰 Toolbox
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="max-width: 10%;height: auto;" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="max-width: 10%;height: auto;" alt="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 10%;height: auto;" alt="js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 10%;height: auto;" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 10%;height: auto;" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 10%;height: auto;" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 10%;height: auto;" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 10%;height: auto;" alt="linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="max-width: 10%;height: auto;" alt="flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 10%;height: auto;" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 10%;height: auto;" alt="github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="react"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" alt="linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="mongodb"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="github"/>
 </div>
 
 ---
